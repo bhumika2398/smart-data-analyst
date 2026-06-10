@@ -45,4 +45,4 @@ Get a free Groq key at console.groq.com
 Bhumika — AI/ML practitioner based in Bengaluru, India
 
 GitHub: https://github.com/bhumika2398
-LinkedIn: add your LinkedIn URL here
+LinkedIn:www.linkedin.com/in/bhumika-rajeev
