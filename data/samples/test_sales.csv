@@ -1,0 +1,11 @@
+product,region,revenue,month
+Laptop,South,45000,January
+Phone,North,32000,January
+Tablet,South,18000,February
+Laptop,North,52000,February
+Phone,South,29000,March
+Tablet,North,21000,March
+Laptop,South,48000,March
+Phone,North,38000,April
+Tablet,South,22000,April
+Laptop,North,61000,April

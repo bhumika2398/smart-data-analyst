@@ -1,0 +1,13 @@
+order_id,category,city,payment_method,order_value,delivery_days
+1001,Electronics,Mumbai,UPI,8500,2
+1002,Fashion,Delhi,Card,2300,3
+1003,Grocery,Bangalore,COD,1200,1
+1004,Electronics,Chennai,UPI,9200,2
+1005,Fashion,Hyderabad,Card,3100,4
+1006,Grocery,Pune,COD,980,1
+1007,Electronics,Mumbai,UPI,7800,3
+1008,Fashion,Delhi,Card,2800,2
+1009,Grocery,Bangalore,COD,1450,1
+1010,Electronics,Chennai,UPI,10200,2
+1011,Fashion,Hyderabad,Card,3400,3
+1012,Grocery,Pune,COD,1100,1
