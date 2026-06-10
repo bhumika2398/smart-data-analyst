@@ -1,48 +1,53 @@
 # 📊 Smart Data Analyst
 An AI-powered data analyst agent that answers questions about your data in plain English — no SQL or coding required.
 Upload any CSV or Excel file, ask a question, and get back a data answer, an interactive chart, and a plain English business insight — all in one response.
+
 ---
+
 ## 🚀 Live Demo
-👉 Try it here
+👉 Try it here: https://smart-data-analyst.streamlit.app/
+
 ---
+
 ## ✨ Features
-
-Natural language queries — ask questions instead of writing SQL
-Auto chart generation — draws interactive charts automatically
-Business insights — every answer includes a plain English summary
-Conversation memory — ask follow-up questions naturally
-Sample datasets — 3 preloaded Indian business datasets
+- Natural language queries — ask questions instead of writing SQL
+- Auto chart generation — draws interactive charts automatically
+- Business insights — every answer includes a plain English summary
+- Conversation memory — ask follow-up questions naturally
+- Sample datasets — 3 preloaded Indian business datasets
 
 ---
+
 ## 🛠️ Tech Stack
-
-Frontend: Streamlit
-AI Agent: LangChain + Groq llama-3.3-70b
-Database: SQLite + SQLAlchemy
-Charts: Plotly Express
-Data Processing: Pandas
+- Frontend: Streamlit
+- AI Agent: LangChain + Groq llama-3.3-70b
+- Database: SQLite + SQLAlchemy
+- Charts: Plotly Express
+- Data Processing: Pandas
 
 ---
-## 💻 Run Locally
 
-Clone the repo: git clone https://github.com/bhumika2398/smart-data-analyst.git
-Create venv: python -m venv venv
-Activate: venv\Scripts\activate
-Install: pip install -r requirements.txt
-Add GROQ_API_KEY to .env file
-Run: streamlit run app.py
+## 💻 Run Locally
+1. Clone the repo: git clone https://github.com/bhumika2398/smart-data-analyst.git
+2. Create venv: python -m venv venv
+3. Activate: venv\Scripts\activate
+4. Install: pip install -r requirements.txt
+5. Add GROQ_API_KEY to .env file
+6. Run: streamlit run app.py
 
 Get a free Groq key at console.groq.com
+
 ---
+
 ## 🗂️ Sample Datasets
-
-🛒 Indian Sales — product revenue across cities and quarters
-👥 HR Analytics — employee salary and performance by department
-📦 Ecommerce Orders — orders by category, city, and payment method
+- 🛒 Indian Sales — product revenue across cities and quarters
+- 👥 HR Analytics — employee salary and performance by department
+- 📦 Ecommerce Orders — orders by category, city, and payment method
 
 ---
+
 ## 👩‍💻 Built By
 Bhumika — AI/ML practitioner based in Bengaluru, India
 
-GitHub: https://github.com/bhumika2398
-LinkedIn:www.linkedin.com/in/bhumika-rajeev
+- GitHub: https://github.com/bhumika2398
+- LinkedIn: https://www.linkedin.com/in/bhumika-rajeev
