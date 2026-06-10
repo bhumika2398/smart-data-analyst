@@ -1,4 +1,5 @@
 import os
+import streamlit as st
 from dotenv import load_dotenv
 from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage
@@ -18,7 +19,7 @@ def generate_insight(question, answer):
         llm = ChatGroq(
             model="llama-3.3-70b-versatile",
             temperature=0.3,
-            api_key=os.getenv("GROQ_API_KEY")
+            api_key=os.getenv("GROQ_API_KEY") or st.secrets.get("GROQ_API_KEY", "")
         )
 
         prompt = f"""You are a business analyst writing for a non-technical audience.
